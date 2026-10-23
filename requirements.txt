@@ -1,0 +1,2 @@
+strategylab @ git+https://github.com/AlgoStrategyLab/strategylab-core.git
+matplotlib
